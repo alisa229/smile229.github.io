@@ -1,1 +1,0 @@
-INSERT INTO `dede_diyform1` VALUES('2','1','AB模版网','9490489@qq.com','www.adminbuy.cn','加入VIP即可下载全部模版 www.adminbuy.cn');
